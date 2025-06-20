@@ -1,6 +1,6 @@
 # Customer Success & Analytics Portfolio
 
-This portfolio includes selected projects that reflect my experience in customer success operations, CX analytics, and workflow automation. These examples show how I’ve approached real-world problems using tools like Excel, Power BI, and SQL logic.
+This portfolio highlights a few of my self-driven projects focused on CX operations, dashboard development, and workflow optimization. Each project reflects my interest in making processes more efficient and using data to support better decisions.
 
 ### 📊 Power BI: Movie ROI & Genre Trends Dashboard
 [View Repository »](https://github.com/Gray135/movie-data-insights)
