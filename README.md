@@ -1,4 +1,4 @@
-# Customer Success & Analytics Learning Projects
+# Customer Success & Analytics Projects
 
 This portfolio highlights a few of my self-driven learning projects focused on CX operations, dashboard development, and workflow optimization. Each project is intended to help me further develop my skills and apply it to a future portfolio level project. 
 
